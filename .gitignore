@@ -1,0 +1,5 @@
+.idea/*
+gen/*
+local.properties
+myapp.iml
+out/*
